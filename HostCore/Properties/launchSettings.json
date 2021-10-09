@@ -1,0 +1,8 @@
+{
+  "profiles": {
+    "HostCore": {
+      "commandName": "Project",
+      "commandLineArgs": "C:\\Users\\rjoy\\Downloads\\MindSample.txt C:\\Users\\rjoy\\Documents\\MindSampleOutput.json"
+    }
+  }
+}
